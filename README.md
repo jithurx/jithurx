@@ -22,3 +22,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jithurx&show_icons=true&locale=en" alt="jithurx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jithurx&" alt="jithurx" /></p>
+
+### 🌟 Philosophy
+
+> “Driven by curiosity and the belief that discovery is a continuous journey:  
+> ‘Somewhere, something incredible is waiting to be known.’”  
+> — Carl Sagan
+
