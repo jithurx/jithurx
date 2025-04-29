@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br> Motivated and curious learner with a passion for exploring the digital universe — one crash, compile, and late-night curiosity binge at a time. Eager to build real skills through hands-on learning, problem-solving, and continuous experimentation.<br>
+Motivated and curious learner with a passion for exploring the digital universe — one crash, compile, and late-night curiosity binge at a time. Eager to build real skills through hands-on learning, problem-solving, and continuous experimentation.<br>
 
 
 ## 🌐 Socials:
