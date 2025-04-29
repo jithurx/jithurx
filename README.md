@@ -25,7 +25,7 @@
 
 ### 🌟 Philosophy
 
-> “Driven by curiosity and the belief that discovery is a continuous journey:  
-> ‘Somewhere, something incredible is waiting to be known.’”  
+> Driven by curiosity and the belief that discovery is a continuous journey:  
+> ‘Somewhere, something incredible is waiting to be known.’  
 > — Carl Sagan
 
