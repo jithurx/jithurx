@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijith R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### 🚀 About Me
+
+> Motivated and curious learner with a passion for exploring the digital universe — one crash, compile, and late-night curiosity binge at a time. Eager to build real skills through hands-on learning, problem-solving, and continuous experimentation.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithurx&label=Profile%20views&color=0e75b6&style=flat" alt="jithurx" /> </p>
 
