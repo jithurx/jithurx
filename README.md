@@ -1,4 +1,5 @@
 # Hi, I'm Abhijith!
+## I think I am a developer 🙂
 
 <img align='right' src="assets/my-birb/tiel.gif" width="190">
 
