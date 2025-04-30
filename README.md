@@ -1,6 +1,6 @@
 # Hi, I'm Abhijith!
 
-<img align='right' src="https://github.com/jithurx/jithurx/blob/main/assets%2Fmy-birb%2Ftiel.gif" width="190">
+<img align='right' src="assets/my-birb/tiel.gif" width="190">
 
 <p><em>Motivated and curious learner with a passion for exploring the digital universe — one crash, compile, and late-night curiosity binge at a time.</em></p>
 
