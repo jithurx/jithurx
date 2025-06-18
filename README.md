@@ -24,7 +24,7 @@ const abhijith = {
   goal: "Build cool things. Learn endlessly."
 }
 
-
+```
 ---
 
 Stats & Activity
