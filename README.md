@@ -18,12 +18,3 @@ C • Python
 Hardware • Software • Networks
 ```
 ---
-
-# Activity
-
-
-<summary>📈 GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=jithurx&theme=merko&hide_border=false&include_all_commits=true">
-<img src="https://nirzak-streak-stats.vercel.app/?user=jithurx&theme=merko&hide_border=false">
-
----
